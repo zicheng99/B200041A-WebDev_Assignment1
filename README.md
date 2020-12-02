@@ -3,9 +3,8 @@
 Catalog-mian is the main folder directory.
 
 Database Connection:
-<?php
+
     $hn="localhost";
     $db='publications';
     $un="root";
     $pw="";
-?>
